@@ -518,7 +518,7 @@ MIT — see the [LICENSE](LICENSE) file for details.
 
 ## About the Author
 
-Built by **Pankil Soni**
+Built by **Mohit Sharma**
 
 - Email: mohitssz775@gmail.com
-- LinkedIn: [mohit-sharma-6a520b28a](https://www.linkedin.com/in/mohit-sharma-6a520b28a/)
+- LinkedIn: [mohit-sharma-6a520b28a/](https://www.linkedin.com/in/mohit-sharma-6a520b28a/)
