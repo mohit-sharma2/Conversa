@@ -520,6 +520,5 @@ MIT — see the [LICENSE](LICENSE) file for details.
 
 Built by **Pankil Soni**
 
-- Email: pmsoni2016@gmail.com
-- LinkedIn: [pankil-soni-5a0541170](https://www.linkedin.com/in/pankil-soni-5a0541170/)
-- Kaggle: [pankilsoni](https://www.kaggle.com/pankilsoni)
+- Email: mohitssz775@gmail.com
+- LinkedIn: [mohit-sharma-6a520b28a](https://www.linkedin.com/in/mohit-sharma-6a520b28a/)
