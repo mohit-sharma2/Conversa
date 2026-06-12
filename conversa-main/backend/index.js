@@ -29,7 +29,7 @@ initSocket(server); // Initialize socket.io logic
 const start = async () => {
   await connectDB(); // connect first
   server.listen(PORT, () => {
-    console.log(`🚀 Server started at http://localhost:${PORT}`);
+    console.log(`Server started at http://localhost:${PORT}`);
   });
   // Start background jobs after DB is ready
   startStaleOnlineUsersJob();
